@@ -1,0 +1,1 @@
+import{_ as A,c as C,o as Q,a as I}from"./app.da6380f9.js";const M=JSON.parse('{"title":"标签","description":"","frontmatter":{},"headers":[],"relativePath":"getting-started.md","lastUpdated":1673526805000}'),E={name:"getting-started.md"},B=I("",4),g=[B];function J(h,K,U,n,l,z){return Q(),C("div",null,g)}const w=A(E,[["render",J]]);export{M as __pageData,w as default};
